@@ -1,0 +1,14 @@
+! -- This points to the default looks Xresource root file.
+#include "/etc/regolith/styles/nord/root"
+
+! ----------------------------------------
+! -- USER OVERWRITE
+! ----------------------------------------
+
+! -- set window gap
+i3-wm.gaps.inner.size: 15
+
+! -- set wallpaper
+gnome.wallpaper: ~/Pictures/ina-wallpaper.jpeg
+
+
