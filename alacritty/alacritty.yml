@@ -314,6 +314,7 @@
 
 # KDE Breeze (Ported from Konsole)
 # source: https://github.com/eendroroy/alacritty-theme/blob/master/themes/breeze.yaml
+# other themes: https://github.com/eendroroy/alacritty-theme
 colors:
   # Default colors
   primary:
