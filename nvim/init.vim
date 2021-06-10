@@ -1,6 +1,9 @@
 """"""""""""""""""""""""""""""""""""""""""
 " Neovim Config
 """"""""""""""""""""""""""""""""""""""""""
+" 2021/06
+
+
 " display index number
 set number
 
@@ -62,8 +65,6 @@ nnoremap <A-h> <C-w>h
 nnoremap <A-j> <C-w>j
 nnoremap <A-k> <C-w>k
 nnoremap <A-l> <C-w>l 
-
-
 
 
 
