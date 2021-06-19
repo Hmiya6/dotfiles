@@ -9,6 +9,6 @@
 i3-wm.gaps.inner.size: 15
 
 ! -- set wallpaper
-gnome.wallpaper: ~/Pictures/ina-wallpaper.jpeg
+gnome.wallpaper: ~/Pictures/hex-fade.png
 
 
