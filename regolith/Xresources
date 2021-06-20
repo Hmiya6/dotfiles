@@ -11,4 +11,8 @@ i3-wm.gaps.inner.size: 15
 ! -- set wallpaper
 gnome.wallpaper: ~/Pictures/hex-fade.png
 
+! -- for i3xrocks
+! i3-wm.bar.background.color: #232627
+! i3-wm.bar.statusline.color: #7f8c8d
+! i3-wm.bar.workspace.active.background.color: #7f8c8d
 
