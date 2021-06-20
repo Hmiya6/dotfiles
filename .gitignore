@@ -1,0 +1,40 @@
+# ignore all
+/*
+
+# not ignore `.gitignore`
+!/.gitignore
+
+# not ignore `nvim/init.vim`
+!/nvim/
+/nvim/*
+!/nvim/init.vim
+
+# not ignore `fish/config.fish`
+!/fish/
+/fish/*
+!/fish/config.fish
+
+# not ignore `regolith/Xresources`
+!/regolith/
+/regolith/*
+!/regolith/Xresources
+
+# not ignore `regolith/picom/config`
+!/regolith/picom/
+/regolith/picom/*
+!/regolith/picom/config
+
+# not ignore `regolith/i3xrocks/conf.d/*`
+!/regolith/i3xrocks/
+/regolith/i3xrocks/*
+!/regolith/i3xrocks/conf.d/
+
+
+##########################################
+# Example
+##########################################
+# to commit only `./nvim/init.vim`
+# /* # ignore all files (just `*` contains all subdirectories)
+# !/nvim/ # dont ignore `./nvim/`
+# /nvim/* # ignore all files in `./nvim/`
+# !/nvim/init.vim # but dont ignore `./nvim/init.vim`
